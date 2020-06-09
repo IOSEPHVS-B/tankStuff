@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "modes.h": "c",
+        "cmath": "c"
+    }
+}
